@@ -23,14 +23,12 @@ git clone https://github.com/CleristonAlbuquerque/Desafio_Indicium_Lighthouse.gi
 cd Desafio_Indicium_Lighthouse
 ````
 
-2. Crie e ative o ambiente virtual
+2 Crie o ambiente
+```bash
+python -m venv venv
+```
 
-  1 Crie o ambiente
-  ```bash
-  python -m venv venv
-  ```
-
- 2. Ative o ambiente
+3. Ative o ambiente
 
   1 No Windows
   ````bash
