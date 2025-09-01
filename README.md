@@ -25,21 +25,22 @@ cd Desafio_Indicium_Lighthouse
 
 2. Crie e ative o ambiente virtual
 
-2.1 Crie o ambiente
-```bash
-python -m venv venv
-```
+  2.1 Crie o ambiente
+  ```bash
+  python -m venv venv
+  ```
 
-2.2. Ative o ambiente
+ 2.2. Ative o ambiente
 
-2.2.1 No Windows
-````bash
-venv\Scripts\activate
-````
-2.2.2 No macOS/Linux
-````bash
-source venv/bin/activate
-````
+  2.2.1 No Windows
+  ````bash
+  venv\Scripts\activate
+  ````
+
+  2.2.2 No macOS/Linux
+  ````bash
+  source venv/bin/activate
+  ````
 
 3. Instale as dependências
 
