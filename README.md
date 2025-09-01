@@ -31,17 +31,17 @@ python -m venv venv
 
 3. **Ative o ambiente**
 
-  1. **No Windows**
+**No Windows**
   
-  ````bash
-  venv\Scripts\activate
-  ````
+````bash
+venv\Scripts\activate
+````
 
-  2. **No macOS/Linux**
+**No macOS/Linux**
   
-  ````bash
-  source venv/bin/activate
-  ````
+````bash
+source venv/bin/activate
+````
 
 4. **Instale as dependências**
 
