@@ -31,13 +31,13 @@ python -m venv venv
 
 3. **Ative o ambiente**
 
-**No Windows**
+- **No Windows**
   
 ````bash
 venv\Scripts\activate
 ````
 
-**No macOS/Linux**
+- **No macOS/Linux**
   
 ````bash
 source venv/bin/activate
