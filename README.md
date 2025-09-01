@@ -24,23 +24,26 @@ cd Desafio_Indicium_Lighthouse
 ````
 
 2 Crie o ambiente
+
 ```bash
 python -m venv venv
 ```
 
 3. Ative o ambiente
 
-  1 No Windows
+  3.1 No Windows
+  
   ````bash
   venv\Scripts\activate
   ````
 
-  2 No macOS/Linux
+  3.2 No macOS/Linux
+  
   ````bash
   source venv/bin/activate
   ````
 
-3. Instale as dependências
+4. Instale as dependências
 
 ```bash
 pip install -r requirements.txt
